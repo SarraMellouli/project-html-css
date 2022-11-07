@@ -1,0 +1,28 @@
+.onglets{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 200px;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.onglets a{
+    color:white;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: red;
+    padding: 10px;
+
+}
+
+body{
+    font-family: 'Roboto';
+}
+
+div{
+    font-family: 'Roboto';
+}
